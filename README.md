@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkashN-23
 - 👀 I’m interested in creating my own Machine Learning and Deep Learning models, but some times include Cyber Security related stuffs!! 
-- 🌱 I’m currently learning eep Learning, Autonomous Systems, Embedded Systems & IoT
+- 🌱 I’m currently learning Deep Learning, Autonomous Systems, Embedded Systems & IoT
 - 💞️ I’m looking to collaborate on AI-powered projects like voice assistants, deepfake detection, and smart fitness solutions
 - 📫 How to reach me
 -   💼 [LinkedIn](https://www.linkedin.com/in/akashn-23) 
